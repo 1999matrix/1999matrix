@@ -16,7 +16,7 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 ### Languages and Tools
 
 <div align="center">
-  <img height="35" src="https://skillicons.dev/icons?i=aws,docker,flask,git,heroku,html5,mongodb,mysql,opencv,pandas,postman,python,pytorch,redis,scikit-learn,seaborn,sqlite,tensorflow" alt="Languages and Tools" />
+  <img height="35" src="https://skillicons.dev/icons?i=aws,docker,git,mongodb,mysql,opencv,pandas,postman,python,redis,sqlite,tensorflow,nodejs,react,linux,cplusplus" alt="Languages and Tools" />
 </div>
 
 <br>
